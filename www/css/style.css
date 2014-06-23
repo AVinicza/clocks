@@ -1,0 +1,22 @@
+/* Empty. Add your own CSS if you like */
+.tabStyle{
+	background-color: #000000 !important;
+}
+
+.pointerStyle {
+    left:0px; /* play around with this */
+    position:absolute;
+    top:0px; /* and play around with this */
+    width:100%;
+}
+
+.clockStyle{
+    margin-left:auto;
+    margin-right:auto;
+    position:relative; /* and this has to be relative */
+    width:100%;
+}
+
+#hint{
+	color: #FFFFFF !important;
+}
